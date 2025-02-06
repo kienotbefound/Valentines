@@ -4,9 +4,9 @@ const messages = [
 ,    "No (Still no??🙄)",
     "No (Baby please??🥺)",
     "No (Just think about it☹️)",
-    "No (If you say no, I will be really sad😢)",
-    "No (I will be very sad😔)",
-    "No (Ok fine, I will stop asking😥)",
+    "No (I will be really sad😢)",
+    "No (U don't love me😔)",
+    "No (Okay I will stop asking na😥)",
     "No (Just kidding, say yes na kasi😤)"
 ];
 
